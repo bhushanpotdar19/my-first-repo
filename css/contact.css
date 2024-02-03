@@ -1,0 +1,24 @@
+.footer {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+}
+
+.a {
+    text-decoration: none;
+    color: #d31818;
+    font-weight: bold;
+}
+
+.contact {
+    background-color: rgb(154, 238, 238);
+    position: absolute;
+    left: 40%;
+    font-size: 30px;
+    color: #ff8c00;
+    padding: 15px;
+}
+.fa-solid {
+    color: rgb(199, 35, 35);
+}
